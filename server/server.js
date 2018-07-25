@@ -21,3 +21,7 @@ app.get('/data', (req, res) => {
 app.listen(port, host, function () {
   console.log('Listening on http://localhost:', port);
 })
+
+// What is an API 
+// Application Programming Interface // that endpoint and making the 
+// What does it do
